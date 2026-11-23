@@ -1,2 +1,141 @@
-import base64,zlib
-exec(zlib.decompress(base64.b85decode('c-pmCZFAa468_Gw(6Y5PBQ(MiToNNPsao%Pzr@MqNZDT~RZ5@%%jgZw0JbUr_v;=>2pN)W?bXR;BzmTMdY*o|r$v<HS)q&vnWZd~Og>4rDdISq^$W4y2&s%f8n>N4`JSZ2qxQgMwmX9V0kbdJC4)PB9k?bVGaPqee8fh~MM<G04$Nlo=a?^@Kc{3(d=9r&d7Ba6f?GlS&K(b<xuQ9D9fzfSIB?jE4~Gsb_#2R{`3OE&+%Y?UO!$8E#v>p9L)ggm2;MH?D`5kWuGVk|Dc(T3A}^h<eCl^Xu`uE+2<gJ~ItE<JIGY8ram6O=S_^W%=*v8g6g9_Jd`b-B_uPS_#}-*(L=65@L!_HT6oC>npE`b}K`w|{*~RODJBMdfougvWjN=t8jCntjVYI{*+heufH?0?>OF^Sl(K)PfH66H?>+~Y)!RMq;#t#;ETgoDqqCIWiOq%d~I`GHW+(8HO>Coq#*hDKCr3$^YaWNd5y1r>zSrL}s9N)A@@3fsls7;X?ZfV6uE4#{y?P{<CrKn`PYG(^BRngz%xhPO&_rWPAqcqNTqBy`D!k($7P=g6*Tur4F_I9w)f|8t=UhP3k(Ev83#6Q(6_0k{dt-i0fI;Xb+Ju(B9w?bW6TlwvXDh|e4lHGk23s^)Uc75V0i-)fXf};q>g04&keyovYEk~*^j)r_GQo4gwaVqF;fcWFA4D|tV`(4RR9iuRW7^xGaaZ&OmCq|HlRJ|XJ4A`0aFmhh;6gQmX+;uU70&&w1Ai$u4Mp<r}ofaqC!-Q1hXhb$dhZ-{)9j!Cx=+Lo)m`%j!6LbnwNVAHXzi<khG`)G2swmxvgUX7}OO8?V*vtxW&q;ejA%}|9+nsDuVH6;OmdoJNcF*K%9j-J}wSRz~mNh<d@bSH4YB)K+_UZuqge#Tpk|-xDpEXjc$%_lu;r!Cl>-Ow7wNskfXs*(>!nXbiivN(@zi=p|r#?S&96aaoW6Q16O=&8fNNeR2sK0LruUR32)j2P8a;GceouAQ4){0B3GT@T)(Hko}O%%bNS&BSznLeyc2FD}A<7;@9PV~8zx6d_)O^CrnFBQZw#VRFwQ5nqgoN98(WvS(wrk;$vENim8dnK_1$||I!HRy>FEm(f-K@mx`-30C4lw3@p<YQ>dBuwB)fjdRH;~y6fBhhEWwdo&Ms~cUdk`+x3=R<WG*JrV=A3PbC$v-|~%hy8@N!Xk{;^|%05uG9PF)E;Ao#Sfp<v7tnh{>n@tJsDKfr;N}Rugkio6Y+bt6Cw+TWfr*2oTI9Rkj2I4w^Ls=w>La!4wn^?ZF3G8iBb3NI$nB=+$)Q!-fNYj2{P&t~o?XnHLv><88fOvU06yTh_XCwTe87pD~($O!`Zq=o*W$H{la#`|>!L3;K)_9i<H%Dd%HU75O>}{A)kYa$3himazcr9$!a7yZnO)z>H&*$rtkf!Z|>kXNdEx#2I%iwskwU<<9?hLjCY88t=GnpXTpL(6mkmE9?O};%$;aPGa8;4fHtY@9e0BO>~(5%oB)n#9)SL;o}25J~W%%T71`|cTl^nJsx|Pz1+UEhP`Gg!yf;#_pE#Qf8l*iyaC>!#~JpZHRo?((h3I=`$6x)erMWmd-)4kHIEZ~3x;V7-3WFhP=M_E8G>S#y!tofZ(e~|X^rsG>o{fY;QZ>7iLAKOG_A@`jURJN`)*p*oLcBx<y<UDFhMW1mK11lC^cJ-5v~q-0CW3+&+4XXtAznif=AHVHVuj{eiB}mL`cgv3tn+n;)%yWG7AGE@oe0Yd;Atq6}V$!)Ft<-AElvqq;L?lxelGCuEnkMV9RaTgFRz*fP=4F1HA#Ar{mT(4mr`@4qkfpG4_E*N)|L^8mmKW>er-CHC*9)w?^v#tR73bGhT9ANAdf(okK1E32J`}u@ZojgiGPgXAA)1*5J6UL1Z~pf^h@G0m@|?`X%4Kh8y|mU47!o&p@ud$M7_51hN1vR2b&=(1GjkZu7XhR~D8!bTfEcrwbN}oDa{2ZpW+F-!b_9IZH+R1*mQqzyKiQX(p7hWaZ}$)9GkgFssjpc|?<T9uv}k$e^su?+ZG5YsufBc3JSEM_tF({ixYg)MV-nd?;9uuAN_PyL0{d?%VC;hG()b(rr{^sZQtar{6zb|8@KMTQ%O*Ewp@sS&z}_un|d}YEr0fSp)J6;K>7Z&t_Tpbnti0Z~K$-rw&@_T6$I(sDR_|BK>fa<dSMFaA}@}0!q)l2trXvzV9O8M5=7{l#8y{h2|uV=7EZ`^a9npFC}QIcxs5Xi`2bw+usy%2CWPQH%$DYr4X`ag<e_53xuTw@i-T`GOqOv%%g_z4iGH5dvyH8Gxp*IHeGh$Zp8$y_usu(28rmh{mY@hTTZ)D1!^O^(57`mphfqHtEG|loTqG4d`q$|Ol)$NBMmeKVe&$xUEegvHypmiVj0AGKB#w^w5lA^hS<KV9rIwme(+hhTp>XptHx6^{|1VE<$Ye@&lC%-VeFSvf)B(;1mH`yQS(fHH)c;-0=oiKLC|Fj*cM0Vq=GOOW~a7=0HD4m9oa>xB<72;%Tjg_hDET`QhYd)$C;Eu55SW;v&Me`-z*%5')))
+import json,os,sys,urllib.request as U
+D={'n':(-21,-19,-12,-8,8,12,19,21),'b':(-11,-9,9,11),'r':(-10,-1,1,10)}
+D['q']=D['k']=D['b']+D['r']
+V=dict(p=100,n=320,b=330,r=500,q=900,k=0)
+T=dict(p=('@@@BELY@','@@AC'),n=('6<BFHHB<','4=BE'),b=('<@BCCB@=','<@BC'),r=('@@@@@AEB','?@AB'),q=('=?@@@@@@','>@AA'),k=('F@:40,($','BF@<'))
+CR={95:'KQ',91:'Q',98:'K',25:'kq',21:'q',28:'k'}
+S=[]
+def load(f):
+ global B,R,E
+ p=f.split();B=[' ']*120
+ for i,r in enumerate(p[0].split('/')):B[21+10*i:29+10*i]=''.join('.'*int(c)if c.isdigit()else c for c in r)
+ R=p[2];E=0 if p[3]=='-'else 21+10*(8-int(p[3][1]))+ord(p[3][0])-97
+ return 1 if p[1]=='w'else -1
+def att(s,w):
+ f=str.upper if w>0 else str.lower
+ if f('p')in(B[s+9*w],B[s+11*w]):return 1
+ for d in D['n']:
+  if B[s+d]==f('n'):return 1
+ for d in D['q']:
+  t=s+d
+  if B[t]==f('k'):return 1
+  while B[t]=='.':t+=d
+  if B[t]in(f('q'),f('b'if d in D['b']else'r')):return 1
+ return 0
+def gen(w,q=0):
+ L=[]
+ def add(s,t):
+  if B[s]in'Pp'and(t<29 or t>90):L.extend((s,t,p)for p in'qrbn')
+  else:L.append((s,t,''))
+ for s in range(21,99):
+  c=B[s]
+  if c in' .'or c.isupper()!=(w>0):continue
+  k=c.lower()
+  if k=='p':
+   d=-10*w
+   for t in(s+d+1,s+d-1):
+    if B[t]not in' .'and B[t].isupper()==(w<0)or t==E:add(s,t)
+   t=s+d
+   if B[t]=='.':
+    add(s,t)
+    if s//10==(8 if w>0 else 3)and B[t+d]=='.':add(s,t+d)
+   continue
+  for d in D[k]:
+   t=s+d
+   while B[t]!=' ':
+    x=B[t]
+    if x=='.':add(s,t)
+    else:
+     if x.isupper()==(w<0):add(s,t)
+     break
+    if k in'nk':break
+    t+=d
+  if k=='k'and s==(95 if w>0 else 25):
+   for e,z,n in(1,'Kk',2),(-1,'Qq',3):
+    if z[w<0]in R and all(B[s+e*i]=='.'for i in range(1,n+1))and not att(s,-w)and not att(s+e,-w):add(s,s+2*e)
+ if q:L=[m for m in L if B[m[1]]!='.'or m[2]or(B[m[0]]in'Pp'and m[1]==E)]
+ return L
+def mk(m,w):
+ global R,E
+ s,t,p=m;c=B[s];x=B[t]
+ S.append((B[:],R,E))
+ B[t]=c;B[s]='.'
+ if c in'Pp':
+  if t==E and x=='.':B[t+10*w]='.'
+  if p:B[t]=p.upper()if w>0 else p
+ if c in'Kk'and abs(t-s)==2:
+  a,b=(t+1,t-1)if t>s else(t-2,t+1)
+  B[b]=B[a];B[a]='.'
+ E=(s+t)//2 if c in'Pp'and abs(t-s)==20 else 0
+ for q in(s,t):
+  for z in CR.get(q,''):R=R.replace(z,'')
+def un(w):
+ global R,E
+ B[:],R,E=S.pop()
+def ck(w):return att(B.index('Kk'[w<0]),-w)
+def ev():
+ v=0
+ for s in range(21,99):
+  c=B[s]
+  if c in' .':continue
+  k=c.lower();w=1 if c<'a'else -1
+  i,j=divmod(s-21,10);a,b=T[k]
+  v+=w*(V[k]+2*(ord(a[7-i if w>0 else i])+ord(b[min(j,7-j)])-128))
+ return v
+def O(m,p):
+ if p<1 and RS:return RS.get(m,-9e5)+1e6*(m==BM)
+ v=10*V.get(B[m[1]].lower(),0)+V.get(m[2],0)
+ if v:v+=2e4-V[B[m[0]].lower()]
+ elif m in K.get(p,()):v=9e3
+ return v
+def qs(a,b,w):
+ v=ev()*w
+ if v>=b:return v
+ a=max(a,v)
+ for m in sorted(gen(w,1),key=lambda m:-O(m,99)):
+  mk(m,w)
+  if not ck(w):
+   v=-qs(-b,-a,-w)
+   if v>=b:un(w);return v
+   a=max(a,v)
+  un(w)
+ return a
+def sr(d,a,b,w,p):
+ global BM
+ c=ck(w)
+ d+=c*(p<9)
+ if d<1:return qs(a,b,w)
+ n=0;g=-99999
+ for m in sorted(gen(w),key=lambda m:-O(m,p)):
+  mk(m,w)
+  if ck(w):un(w);continue
+  n+=1;v=-sr(d-1,-b,-a,-w,p+1);un(w)
+  if p<1:RS[m]=v
+  if v>g:
+   g=v
+   if p<1:BM=m
+   if v>a:
+    a=v
+    if a>=b:
+     if B[m[1]]=='.':K[p]=[m]+[x for x in K.get(p,())if x!=m][:1]
+     break
+ if n==0:return p-30000 if c else 0
+ return g
+def best(f,dep=4):
+ global BM,RS,K
+ w=load(f);BM=None;RS={};K={}
+ for d in range(1,dep+1):sr(d,-99999,99999,w,0)
+ return BM
+uci=lambda m:''.join(chr(96+s%10)+str(10-s//10)for s in m[:2])+m[2]
+u=os.environ.get("MAKEFUN_ENV_URL")or sys.exit("MAKEFUN_ENV_URL is not set")
+def post(p,b):
+ try:return json.load(U.urlopen(U.Request(u+p,json.dumps(b).encode(),{"content-type":"application/json"})))
+ except Exception as e:sys.exit(p+str(e))
+while 1:
+ g=post("/game",{})
+ if g["status"]=="done":break
+ while g["status"]=="your_move":
+  m=uci(best(g["fen"]));L=g["legal_moves"]
+  g=post("/move",{"game":g["game"],"move":m if m in L else L[0]})
+ print(g['game'],g['outcome'],g['reason'],file=sys.stderr)
+print("done",g.get('wins'),g.get('draws'),g.get('losses'),file=sys.stderr)
