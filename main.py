@@ -6,5 +6,5 @@ post=lambda p,b:json.load(U.urlopen(U.Request(u+p,json.dumps(b).encode(),{"conte
 try:
  g=post("/game",{})
  while g["status"]!="done":g=post("/move",{"game":g["game"],"move":(lambda m,L:m if m in L else L[0])(uci(best(g["fen"])),g["legal_moves"])})if g["status"]=="your_move"else(print(g["game"],g["outcome"],g["reason"],file=sys.stderr)or post("/game",{}))
-except Exception as e:sys.exit("env: "+str(e))
+except Exception as e:sys.exit("env error: "+str(e))
 print("done",g.get("wins"),g.get("draws"),g.get("losses"),file=sys.stderr)
